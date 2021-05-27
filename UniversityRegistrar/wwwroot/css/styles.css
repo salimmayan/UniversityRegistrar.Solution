@@ -1,0 +1,197 @@
+body {
+	background: lightpink !important;
+	color: white;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f5e7e5;
+  }
+  
+  .container {
+	width: 75%;
+  }
+  
+  ul.no-bullets {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+  }
+
+
+  .containerExtra {
+	background-color: #f88778;
+	padding: 2px 10px 5px 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+  }
+  
+  h1 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #f52409;
+  }
+  
+  h2 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: olive;
+  }
+  
+  
+  h6 {
+	padding-left: 12px;
+	text-align: left !important;
+	color: olive;
+  }
+  
+  .orderList {
+	padding-left: 10px;
+	text-align: left;
+	color: olive;
+  }
+  
+  .black {
+	color: black;
+  }
+  
+  label,button {
+	color: olive;
+	font-weight: 1200;
+  }
+  
+  .titleColor {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(158, 60, 60);
+	font-weight: 1200;
+  }
+  
+  .olive {
+	color: olive;
+  }
+
+  .olive2 {
+	color: olive !important;
+	font-weight: bolder !important;;
+  }
+
+  .btnColor {
+	color: white;
+	background-color:olive;
+  }
+
+  .btnDanger {
+	color: white;
+	background-color:red;
+	border-color: red;
+  }
+
+  .btn {
+	color: white;
+	background-color:olive;
+  }
+  
+  .block {
+	margin: 40px;
+  }
+  
+  .center {
+	width: 100px;
+	margin:auto;
+  }
+  
+  .centerWide{
+	width: 70%;
+	padding: 25px;
+	margin:auto;
+  }
+  
+  .divClass {
+	text-transform: uppercase;
+	width:50%;
+	/* width: 100px; */
+	margin:auto;
+  }
+
+  #story {
+	display: none;
+	background-color: #eb604e;
+	margin: auto;
+	width: 90%;
+  }
+  
+  a {
+	cursor: pointer;
+	color: #0088cc;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+	text-transform: uppercase;
+  }
+  
+  .aTag {
+	margin:auto;
+	width: 100%;
+	text-align: right;
+  }
+  
+  #answer {
+	list-style-type: none;
+  }
+  
+  #question {
+	font-weight: 700;
+	color:white;
+	list-style-type: none;  
+  }
+
+  .heavy {
+	font-weight: 4500; 
+	color:olive; 
+  }
+
+  .heavy2 {
+	font-weight: 4500; 
+	color:red; 
+  }
+
+  .left {
+	font-weight: 1200;
+	color:white;
+	float: left !important;
+  }
+  
+  .right {
+	font-weight: 1200;
+	color:white;
+	float: right !important;
+  }
+
+  .color {
+	font-weight: 700;
+	color:white;
+  }
+  
+  .cbPadding {
+	margin-top:10px;
+	margin-left:5px;
+  }
+  
+
+
+  div#footer {
+	position:fixed;
+	text-align: center !important;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding: 8px; 
+	padding-left: 0%;
+}
